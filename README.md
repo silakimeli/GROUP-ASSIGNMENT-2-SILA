@@ -9,7 +9,7 @@ This project showcases a credit risk analytics pipeline integrating Power BI das
 - **Features:** 23 variables including:
   - `Credit_Score`, `Applicant_Income`, `Loan_Amount`, `Loan_Term_Months`, `Collateral_Value`, `Debt_to_Income_Ratio`, `Default_Status`, etc.
 
-## 🎯 Project Objectives
+## Project Objectives
 
 - Identify high-risk borrowers using credit and behavioral metrics  
 - Segment borrowers by demographic and financial attributes  
@@ -39,6 +39,7 @@ In Kenya’s evolving financial ecosystem—where mobile lending, SACCOs, DFIs, 
   - Credit score segmentation
   - NPL insights by region, age, and employment
   - Drill-through dashboard and KPI reporting
+<img width="611" height="337" alt="SCREENSHOT DASHBOARD" src="https://github.com/user-attachments/assets/1c5c451b-ab65-459b-9ae4-c37c9e3a9f65" />
 
 ## Structure
 - `/data/`: Sample dataset
@@ -60,7 +61,7 @@ In Kenya’s evolving financial ecosystem—where mobile lending, SACCOs, DFIs, 
 
 ---
 
-## 📚 Key Insights
+## Key Insights
 
 - Borrowers with `Credit_Score < 600` had 4x higher default likelihood  
 - Urban borrowers had more credit exposure but better repayment rates  
@@ -69,7 +70,7 @@ In Kenya’s evolving financial ecosystem—where mobile lending, SACCOs, DFIs, 
 
 ---
 
-## 🧭 User Manual Summary
+## User Manual Summary
 
 1. **Landing Page:** Overview KPIs & segmentation slicers  
 2. **Risk Profile Tab:** Heatmaps and PD visualizations  
@@ -78,9 +79,10 @@ In Kenya’s evolving financial ecosystem—where mobile lending, SACCOs, DFIs, 
 
 ---
 
-## 📦 Repository & Deployment
+## Repository & Deployment
 
 - 📂 GitHub Repo: *(https://github.com/silakimeli/GROUP-ASSIGNMENT-2-SILA)*  
+
 
 
 ---
